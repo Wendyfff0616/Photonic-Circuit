@@ -1,7 +1,5 @@
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 Photon - A particle of light that are emitted by emitters and travels along the
 circuit board. Photons have a frequency (THz) and direction. They can interact 
