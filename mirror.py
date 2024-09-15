@@ -2,8 +2,6 @@ from photon import Photon
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 Mirror - A surface that reflect photons, changing the direction in which they 
 travel. A photon may also become lost depending on the type of mirror and the
