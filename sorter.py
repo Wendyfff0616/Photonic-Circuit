@@ -3,16 +3,12 @@ from receiver import Receiver
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 sorter - A module that provides sorting functions for you to use.
 Since most students taking this course have not done algorithms, you are not
 expected to know how to sort. You should have the ability to use our sort
 functions to handle it in your program when needed.
 
-You are free to add more functions, as long as you aren't modifying the
-existing scaffold.
 '''
 def sort_emitters_by_symbol(emitters: list[Emitter]) -> list[Emitter]:
     # this method has already been implemented for you
