@@ -4,8 +4,6 @@ from laser_circuit import LaserCircuit
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 This is a helper function used to return a circuit which is ready for testing.
 This is to be used in the test.py file.
