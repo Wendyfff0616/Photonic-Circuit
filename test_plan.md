@@ -1,6 +1,4 @@
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 **Test Cases**
 Table 1. Summary of test cases for set_pulse_sequence
