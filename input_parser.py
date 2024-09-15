@@ -4,8 +4,6 @@ from mirror import Mirror
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 input_parser - A module that parses the inputs of the program. 
 We define parsing as checking the validity of what has been entered 
