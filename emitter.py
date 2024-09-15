@@ -7,8 +7,6 @@ Emitter - A laser that emits a photon with a frequency and direction.
 The frequency and direction of the photon it emits is determined by the
 pulse  sequence.
 
-You are free to add more attributes and methods, as long as you aren't 
-modifying the existing scaffold.
 '''
 
 
