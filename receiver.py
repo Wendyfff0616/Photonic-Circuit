@@ -2,16 +2,11 @@ from photon import Photon
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 Receiver - A photodetector which absorbs photons and stores its energy. 
 When a photon reaches a receiver, the receiver will absorb the photon and
 absorb its energy. Once a receiver absorbs a photon, the receiver becomes
 activated. An activated receiver can keep absorbing photons.
-
-You are free to add more attributes and methods, as long as you aren't
-modifying the existing scaffold.
 '''
 
 
