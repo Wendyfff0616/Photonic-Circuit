@@ -2,8 +2,6 @@ from photon import Photon
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 Emitter - A laser that emits a photon with a frequency and direction.
 The frequency and direction of the photon it emits is determined by the
