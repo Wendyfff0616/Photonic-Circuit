@@ -8,16 +8,12 @@ from laser_circuit import LaserCircuit
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 run - Runs the entire program. It needs to take in the inputs and process them
 into setting up the circuit. The user can specify optional flags to perform
 additional steps, such as -RUN-MY-CIRCUIT to run the circuit and -ADD-MY-MIRRORS
 to include mirrors in the circuit.
 
-You are free to add more functions, as long as you aren't modifying the
-existing scaffold.
 '''
 
 
