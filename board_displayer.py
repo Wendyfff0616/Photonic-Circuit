@@ -10,8 +10,6 @@ BoardDisplayer - A helper class used to display the circuit board.
 Each time a component is added to the circuit, this board is updated to 
 store the component's symbol in its assigned position on the board.
 
-You are free to add more attributes and methods, as long as you aren't 
-modifying the existing scaffold.
 '''
 
 
