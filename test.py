@@ -4,8 +4,6 @@ from run import set_pulse_sequence
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 This test program checks if the set_pulse_sequence function is implemented
 correctly.
