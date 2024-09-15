@@ -14,8 +14,6 @@ tasks to the specific components e.g. making each emitter emit a photon, getting
 each photon to move and interact with components, etc. In general, this class is
 responsible for handling any task related to the circuit.
 
-You are free to add more attributes and methods, as long as you aren't 
-modifying the existing scaffold.
 '''
 
 
