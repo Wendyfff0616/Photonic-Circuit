@@ -7,8 +7,6 @@ from board_displayer import BoardDisplayer
 
 '''
 Name:   Wenyu Fan
-SID:    540409697
-Unikey: wfan0971
 
 LaserCircuit - Responsible for storing all the components of the circuit and
 handling the computation of running the circuit. It's responsible for delegating 
