@@ -7,8 +7,6 @@ Mirror - A surface that reflect photons, changing the direction in which they
 travel. A photon may also become lost depending on the type of mirror and the
 photon's initial direction when it reaches the mirror.
 
-You are free to add more attributes and methods, as long as you aren't 
-modifying the existing scaffold.
 '''
 
 
