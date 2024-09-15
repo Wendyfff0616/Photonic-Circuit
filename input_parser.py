@@ -11,8 +11,6 @@ to determine if it's valid. If it's not valid, an appropriate message
 should be printed. Whenever we retrieve input in the program, we 
 should be using functions from this module to validate it.
 
-You are free to add more functions, as long as you aren't modifying the
-existing scaffold.
 '''
 
 
